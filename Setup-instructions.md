@@ -1,6 +1,6 @@
 For this workshop you will need to have the following software installed on your laptop **BEFORE** the workshop:
 * Git and a Git client (we will use sourcetree)
-* R and RStudio
+* R and RStudio  
 Additionally, you will need to register for a GitHub account. Please see instructions below for setting up your laptop for the workshop.
 
 ## Register for a GitHub account

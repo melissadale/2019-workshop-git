@@ -1,2 +1,3 @@
 # This is some dummy code so we can see how Version control works!
-print(sample(1:3))
+some_things = sample(1:30)
+plot(some_things)
